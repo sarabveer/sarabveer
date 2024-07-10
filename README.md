@@ -2,7 +2,7 @@
 
 I'm Sarabveer Singh 👳🏻‍♂️
 
-- 🔭 Interested in Software Development, Systems Administration, DevOps, and Internet of Things.
+- 🔭 Interested in Software Development, Cybersecurity, DevOps, and Internet of Things.
 - 🛠️ Currently working on [GurbaniNow.com](https://github.com/gurbaninow), [Khalsa Gutka](https://apps.apple.com/us/app/khalsa-gutka/id6450615279), and [Nanakshahi.net](https://nanakshahi.net)
 - 🏫 [New Jersery Institute of Techlology](https://www.njit.edu) alumnus
 - 📫 Reach out to me:
